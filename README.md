@@ -56,3 +56,12 @@
 document.getElementById("musica1").play();
       }
 </script>
+
+  </section>
+ 
+  <img src="bos.gif" width="600" height="500"> 
+       </Body>
+ </Html>
+      
+         
+ 
